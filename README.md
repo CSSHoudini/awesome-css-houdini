@@ -38,7 +38,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Houdini's CSS Paint Polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill)
 - [Using Houdini CSS Paint API with Rough.js](https://github.com/pshihn/rough-paint/)
 
-### 📺 Videos
+### 📺 Talks
 
 - [Houdini: Demystifying the Future of CSS - Google I/O 2016](https://www.youtube.com/watch?v=sE3ttkP15f8)
 - [Polyfills & Houdini | Browser API Special, CSS Day 2017](https://vimeo.com/232982766)
