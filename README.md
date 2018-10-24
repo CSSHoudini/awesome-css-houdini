@@ -13,7 +13,6 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 
 - [CSS-TAG Houdini Editor Drafts (site)](https://drafts.css-houdini.org/)
 - [CSS-TAG Houdini Editor Drafts (source)](https://github.com/w3c/css-houdini-drafts)
-- [CSS Houdini (Mozilla wiki)]()
 
 ### 📖 Articles
 
