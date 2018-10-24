@@ -30,6 +30,8 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [A Houdini Quickstart: registerProperty](https://danielcwilson.com/blog/2018/02/houdini-quickstart/)
 - [CSS Paint in Action: Bar Chart](https://vitaliy-bobrov.github.io/blog/css-paint-in-action-bar-chart/)
 - [The CSS Paint API](https://css-tricks.com/the-css-paint-api/)
+- [CSS Paint API](https://developers.google.com/web/updates/2018/01/paintapi)
+- [Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet)
 
 ### 💻 Samples
 
