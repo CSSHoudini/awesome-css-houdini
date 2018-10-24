@@ -70,3 +70,5 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 
 - [Surma](https://twitter.com/DasSurma)
 - [Sam Richard](https://twitter.com/snugug)
+- [Vincent De Oliveira](https://twitter.com/iamvdo)
+- [Vitalii Bobrov](https://twitter.com/bobrov1989)
