@@ -38,6 +38,8 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Houdini's CSS Paint Polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill)
 - [Using Houdini CSS Paint API with Rough.js](https://github.com/pshihn/rough-paint/)
 - [Ana Tudor's Houdini samples](https://codepen.io/thebabydino/pens/tags/?selected_tag=houdini)
+- [KarstenBuckstegge's `houdini-experiments`](https://github.com/KarstenBuckstegge/houdini-experiments)
+- [AndresCuervo's `css-houdini-experiments`](https://github.com/AndresCuervo/css-houdini-experiments)
 
 ### 📺 Talks
 
@@ -47,6 +49,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [CSS Houdini in short: From CSS Custom Properties to JavaScript Worklets and back](https://www.youtube.com/watch?v=rJbk0AndV6I)
 - [Magic tricks with Houdini](https://www.youtube.com/watch?v=FYWZrLpN5Po)
 - [The Future of CSS: CSS Houdini](https://www.youtube.com/watch?v=lOAKU5h-lpQ)
+- [Karsten Buckstegge - Houdini the new CSS Magic | JSUnconf 2018](https://www.youtube.com/watch?v=vZk7qPTVs5s)
 
 ### 📄 Slides
 
