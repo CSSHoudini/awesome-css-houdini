@@ -37,6 +37,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Houdini Samples (Google Chrome Labs)](https://github.com/GoogleChromeLabs/houdini-samples)
 - [Houdini's CSS Paint Polyfill](https://github.com/GoogleChromeLabs/css-paint-polyfill)
 - [Using Houdini CSS Paint API with Rough.js](https://github.com/pshihn/rough-paint/)
+- [Ana Tudor's Houdini samples](https://codepen.io/thebabydino/pens/tags/?selected_tag=houdini)
 
 ### 📺 Talks
 
