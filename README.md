@@ -1,4 +1,4 @@
-# .Awesome-CSS-Houdini { } [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# .Awesome-CSS-Houdini { [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) }
 
 > A curated list of CSS Houdini resources.
 
