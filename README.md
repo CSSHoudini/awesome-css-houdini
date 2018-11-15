@@ -75,6 +75,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Magic tricks with Houdini](https://www.youtube.com/watch?v=FYWZrLpN5Po) | `CSSConf Australia 2018` | [Sam Richard](https://twitter.com/snugug) |
 | [Houdini the new CSS Magic](https://www.youtube.com/watch?v=vZk7qPTVs5s) | `JSUnconf 2018` | [Karsten Buckstegge](https://twitter.com/mr_bambule) |
 | [Houdini - What lies ahead](https://www.youtube.com/watch?v=BalUlHBwwlM) | `JSConf Iceland 2018` | [Arun Michael Dsouza](https://twitter.com/amdsouza92) |
+| [State of Houdini](https://www.youtube.com/watch?v=lK3OiJvwgSc) | `Chrome Dev Summit 2018` | [Surma](https://twitter.com/DasSurma) |
 
 ---
 
