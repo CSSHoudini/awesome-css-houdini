@@ -100,6 +100,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [CSS Houdini in short: From CSS Custom Properties to JavaScript Worklets and back](http://slides.com/malyw/houdini-short#/)
 - [Houdini & Polyfilling CSS](http://philipwalton.github.io/talks/2017-06-15)
 - [CSS Magic 🧙‍♂️ & Futuristic Javascript 🤖](https://slides.com/evanpeterson/deck-2/)
+- [Houdini: programming in CSS](https://slides.com/joanleon/houdini-programming-in-css/)
 
 ---
 
