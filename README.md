@@ -56,6 +56,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [AndresCuervo's `css-houdini-experiments`](https://github.com/AndresCuervo/css-houdini-experiments) | `Paint API` |
 | [Hello Houdini](http://hello-houdini.herokuapp.com/) | `Paint API` |
 | [extra.css](https://github.com/una/extra.css) | `Paint API` |
+| [CSS Houdini experiments](https://github.com/nucliweb/houdini) | `Paint API` |
 
 ---
 
