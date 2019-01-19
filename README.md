@@ -39,6 +39,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [The CSS Paint API](https://css-tricks.com/the-css-paint-api/) | `Paint API` |
 | [CSS Paint API](https://developers.google.com/web/updates/2018/01/paintapi) | `Paint API` |
 | [Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet) | `Animation Worklet` |
+| [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb) | `Paint API` |
 
 ---
 
