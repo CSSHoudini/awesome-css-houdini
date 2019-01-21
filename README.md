@@ -43,6 +43,14 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 
 ---
 
+### 🎙 Podcasts
+
+| Podcast | Speaker |
+| ------- | ---- |
+| [Houdini Reloaded](https://spec.fm/podcasts/toolsday/215273) | [Una](https://twitter.com/una) & [Chris Dhanaraj](https://twitter.com/chrisdhanaraj) |
+
+---
+
 ### 💻 Samples
 
 | Samples | APIs |
