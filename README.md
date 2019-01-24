@@ -121,6 +121,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Sam Richard](https://twitter.com/snugug)
 - [Serg Hospodarets](https://twitter.com/malyw)
 - [Surma](https://twitter.com/DasSurma)
+- [Una](https://twitter.com/una)
 - [Vincent De Oliveira](https://twitter.com/iamvdo)
 - [Vitalii Bobrov](https://twitter.com/bobrov1989)
 
