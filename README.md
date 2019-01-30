@@ -101,6 +101,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Rainbow bar spinner with CSS vars & Houdini magic](https://www.youtube.com/watch?v=E2EySmjtggA) | [Ana Tudor](https://twitter.com/anatudor) |
 | [Pointless 🌈 stairs with CSS variables & Houdini magic](https://www.youtube.com/watch?v=JtvJV8LOcYg) | [Ana Tudor](https://twitter.com/anatudor) |
 | [Temperature display change: conic-gradient, CSS vars, Houdini magic](https://www.youtube.com/watch?v=E5XGeJsizMM) | [Ana Tudor](https://twitter.com/anatudor) |
+| [CSS Painting and Custom Properties](https://www.youtube.com/watch?v=5s6MuG6lioY) | [Nate Jacobs](https://twitter.com/nathanalan) |
 
 ---
 
