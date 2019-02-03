@@ -66,6 +66,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Hello Houdini](http://hello-houdini.herokuapp.com/) | `Paint API` |
 | [extra.css](https://github.com/una/extra.css) | `Paint API` |
 | [CSS Houdini experiments](https://github.com/nucliweb/houdini) | `Paint API` |
+| [Jeffsum clone](https://jeffsum.oliverturner.cloud) | `Custom Properties & Values API` |
 
 ---
 
