@@ -127,6 +127,8 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Una](https://twitter.com/una)
 - [Vincent De Oliveira](https://twitter.com/iamvdo)
 - [Vitalii Bobrov](https://twitter.com/bobrov1989)
+- [Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain)
+- [Oliver Turner](https://twitter.com/oliverturner)
 
 --- 
 
