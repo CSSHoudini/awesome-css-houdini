@@ -48,6 +48,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | Podcast | Speaker |
 | ------- | ---- |
 | [Houdini Reloaded](https://spec.fm/podcasts/toolsday/215273) | [Una](https://twitter.com/una) & [Chris Dhanaraj](https://twitter.com/chrisdhanaraj) |
+| [Modern Web Podcast](https://modernweb.podbean.com/e/s05e17-houdini-with-tracy-lee-rob-ocel-surma-aimee-knight-and-vitalii-bobrov/) | [Surma](https://twitter.com/dassurma), [Aimee Knight](https://twitter.com/aimee_knight), [Vitalii Bobrov](https://twitter.com/bobrov1989) |
 
 ---
 
