@@ -68,6 +68,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Hello Houdini](http://hello-houdini.herokuapp.com/) | `Paint API` |
 | [extra.css](https://github.com/una/extra.css) | `Paint API` |
 | [CSS Houdini experiments](https://github.com/nucliweb/houdini) | `Paint API` |
+| [Jeffsum clone](https://jeffsum.oliverturner.cloud) | `Custom Properties & Values API` |
 | [CSS Paint Demos](https://vitaliy-bobrov.github.io/css-paint-demos/) | `Paint API` |
 
 ---
@@ -129,6 +130,8 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Una](https://twitter.com/una)
 - [Vincent De Oliveira](https://twitter.com/iamvdo)
 - [Vitalii Bobrov](https://twitter.com/bobrov1989)
+- [Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain)
+- [Oliver Turner](https://twitter.com/oliverturner)
 - [Nikita Dubko](https://twitter.com/dark_mefody)
 
 --- 
