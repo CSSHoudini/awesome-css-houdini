@@ -40,6 +40,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [CSS Paint API](https://developers.google.com/web/updates/2018/01/paintapi) | `Paint API` |
 | [Houdini's Animation Worklet](https://developers.google.com/web/updates/2018/10/animation-worklet) | `Animation Worklet` |
 | [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb) | `Paint API` |
+| [CSS Custom Properties in Depth](https://vitaliy-bobrov.github.io/blog/css-custom-properties-in-depth/) | `Custom Properties & Values API` |
 
 ---
 
@@ -48,6 +49,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | Podcast | Speaker |
 | ------- | ---- |
 | [Houdini Reloaded](https://spec.fm/podcasts/toolsday/215273) | [Una](https://twitter.com/una) & [Chris Dhanaraj](https://twitter.com/chrisdhanaraj) |
+| [Modern Web Podcast](https://modernweb.podbean.com/e/s05e17-houdini-with-tracy-lee-rob-ocel-surma-aimee-knight-and-vitalii-bobrov/) | [Surma](https://twitter.com/dassurma), [Aimee Knight](https://twitter.com/aimee_knight), [Vitalii Bobrov](https://twitter.com/bobrov1989) |
 
 ---
 
@@ -67,6 +69,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [extra.css](https://github.com/una/extra.css) | `Paint API` |
 | [CSS Houdini experiments](https://github.com/nucliweb/houdini) | `Paint API` |
 | [Jeffsum clone](https://jeffsum.oliverturner.cloud) | `Custom Properties & Values API` |
+| [CSS Paint Demos](https://vitaliy-bobrov.github.io/css-paint-demos/) | `Paint API` |
 
 ---
 
@@ -129,6 +132,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Vitalii Bobrov](https://twitter.com/bobrov1989)
 - [Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [Oliver Turner](https://twitter.com/oliverturner)
+- [Nikita Dubko](https://twitter.com/dark_mefody)
 
 --- 
 
