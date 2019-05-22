@@ -6,7 +6,7 @@
 
 The first question that we do when we view a new technology, thanks to [Surma](https://github.com/surma) we have a great table to see the status of APIs and the browsers support.
 
-[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/47389393-ec628f00-d714-11e8-829e-4479eac7a340.jpg)](https://ishoudinireadyyet.com/)
+[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/58211139-68dd4080-7ceb-11e9-9fc8-ee18612a5d2c.jpg)](https://ishoudinireadyyet.com/)
 > [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 
 ---
@@ -90,6 +90,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Houdini the new CSS Magic](https://www.youtube.com/watch?v=vZk7qPTVs5s) | `JSUnconf 2018` | [Karsten Buckstegge](https://twitter.com/mr_bambule) |
 | [Houdini - What lies ahead](https://www.youtube.com/watch?v=BalUlHBwwlM) | `JSConf Iceland 2018` | [Arun Michael Dsouza](https://twitter.com/amdsouza92) |
 | [State of Houdini](https://www.youtube.com/watch?v=lK3OiJvwgSc) | `Chrome Dev Summit 2018` | [Surma](https://twitter.com/DasSurma) |
+| [How to Be #Extra with CSS Houdini](https://www.youtube.com/watch?v=qY0UF7jaqfs) | `You Gotta Love Frontend 2019` | [Una Kravetz](https://twitter.com/Una) |
 
 ---
 
