@@ -99,6 +99,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Houdini - What lies ahead](https://www.youtube.com/watch?v=BalUlHBwwlM) | `JSConf Iceland 2018` | [Arun Michael Dsouza](https://twitter.com/amdsouza92) |
 | [State of Houdini](https://www.youtube.com/watch?v=lK3OiJvwgSc) | `Chrome Dev Summit 2018` | [Surma](https://twitter.com/DasSurma) |
 | [How to Be #Extra with CSS Houdini](https://www.youtube.com/watch?v=qY0UF7jaqfs) | `You Gotta Love Frontend 2019` | [Una Kravetz](https://twitter.com/Una) |
+| [CSS Houdini & The Future of Styling](https://www.youtube.com/watch?v=GhRE3rML9t4) | `JSConf EU 2019` | [Una Kravetz](https://twitter.com/Una) |
 
 ---
 
