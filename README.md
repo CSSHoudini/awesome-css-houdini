@@ -129,6 +129,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Make the Web Brighter with the CSS Paint API](https://speakerdeck.com/bobrov1989/make-the-web-brighter-with-the-css-paint-api-1c99ed50-7d7d-43b4-bc1e-7f41684274ed)
 - [WebAssembly in Houdini CSS, is it possible?](https://www.slideshare.net/gskachkov/webassembly-in-houdini-css-is-it-possible)
 - [Design System Magic with Houdini](https://css-houdini.web.app/talks/design-systems/)
+- [When Houdini met Goldblum](http://slides.com/oliverturner/when-houdini-met-goldblum)
 
 ---
 
