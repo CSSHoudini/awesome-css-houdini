@@ -117,6 +117,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Pointless 🌈 stairs with CSS variables & Houdini magic](https://www.youtube.com/watch?v=JtvJV8LOcYg) | [Ana Tudor](https://twitter.com/anatudor) |
 | [Temperature display change: conic-gradient, CSS vars, Houdini magic](https://www.youtube.com/watch?v=E5XGeJsizMM) | [Ana Tudor](https://twitter.com/anatudor) |
 | [CSS Painting and Custom Properties](https://www.youtube.com/watch?v=5s6MuG6lioY) | [Nate Jacobs](https://twitter.com/nathanalan) |
+| [Creating a Custom CSS Houdini Paintlet!](https://www.youtube.com/watch?v=kQAci8m0SpE) | [Coursetro](https://twitter.com/designcoursecom) |
 
 ---
 
