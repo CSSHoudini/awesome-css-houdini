@@ -101,6 +101,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [How to Be #Extra with CSS Houdini](https://www.youtube.com/watch?v=qY0UF7jaqfs) | `You Gotta Love Frontend 2019` | [Una Kravetz](https://twitter.com/Una) |
 | [CSS Houdini & The Future of Styling](https://www.youtube.com/watch?v=GhRE3rML9t4) | `JSConf EU 2019` | [Una Kravetz](https://twitter.com/Una) |
 | [Design System Magic with CSS Houdini](https://www.youtube.com/watch?v=1W79T2ibd5Y) | `CSSconf EU 2019` | [Sam Richard](https://twitter.com/snugug) |
+| [When Houdini Met Goldblum](https://www.youtube.com/watch?v=aULlyfQOF18) | `CSS Camp 2019` | [Oliver Turner](https://twitter.com/oliverturner) |
 
 ---
 
