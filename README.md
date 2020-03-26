@@ -6,7 +6,7 @@
 
 The first question that we do when we view a new technology, thanks to [Surma](https://github.com/surma) we have a great table to see the status of APIs and the browsers support.
 
-[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/58211139-68dd4080-7ceb-11e9-9fc8-ee18612a5d2c.jpg)](https://ishoudinireadyyet.com/)
+[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/77704293-0add5180-6fbd-11ea-9262-09b7b0c2f005.png)](https://ishoudinireadyyet.com/)
 > [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 
 ---
