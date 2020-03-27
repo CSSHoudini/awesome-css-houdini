@@ -1,4 +1,4 @@
-# .Awesome-CSS-Houdini { [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) } [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/houdini)
+# .Awesome-CSS-Houdini { [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) }
 
 > A curated list of CSS Houdini resources.
 
@@ -149,7 +149,3 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [Amelia Bellamy-Royds](https://twitter.com/AmeliasBrain)
 - [Oliver Turner](https://twitter.com/oliverturner)
 - [Nikita Dubko](https://twitter.com/dark_mefody)
-
---- 
-
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/houdini)
