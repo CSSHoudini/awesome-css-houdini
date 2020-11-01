@@ -6,7 +6,7 @@
 
 The first question that we do when we view a new technology, thanks to [Surma](https://github.com/surma) we have a great table to see the status of APIs and the browsers support.
 
-[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/77704293-0add5180-6fbd-11ea-9262-09b7b0c2f005.png)](https://ishoudinireadyyet.com/)
+[![Is Houdini ready yet‽](https://user-images.githubusercontent.com/1307927/97810683-0b864680-1c76-11eb-822c-6fdfd1bb658a.png)](https://ishoudinireadyyet.com/)
 > [Is Houdini ready yet‽](https://ishoudinireadyyet.com/)
 
 ---
@@ -50,6 +50,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [New horizons in CSS: Houdini and the Paint API](https://blog.logrocket.com/new-horizons-in-css-houdini-and-the-paint-api-8b307cf387bb) | `Paint API` |
 | [CSS Custom Properties in Depth](https://vitaliy-bobrov.github.io/blog/css-custom-properties-in-depth/) | `Custom Properties & Values API` |
 | [A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/) | `Worklets` `Paint API` `Layout API` `Typed OM` `Custom Properties & Values API` `Font metrics` |
+| [Randomized Selective Color: A Post List Study](https://una.im/random-selective-colors/) | `Paint API` `Custom Properties & Values API` |
 
 ---
 
