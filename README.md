@@ -51,6 +51,8 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [CSS Custom Properties in Depth](https://vitaliy-bobrov.github.io/blog/css-custom-properties-in-depth/) | `Custom Properties & Values API` |
 | [A Practical Overview Of CSS Houdini](https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/) | `Worklets` `Paint API` `Layout API` `Typed OM` `Custom Properties & Values API` `Font metrics` |
 | [Randomized Selective Color: A Post List Study](https://una.im/random-selective-colors/) | `Paint API` `Custom Properties & Values API` |
+| [Performance - CSS Painting versus CSS Houdini Paint API](https://lisilinhart.info/posts/css-houdini-performance/) | `Paint API` |
+| [Magical Rainbow Gradients](https://joshwcomeau.com/react/rainbow-button/) | `Paint API` `Custom Properties` |
 
 ---
 
@@ -135,6 +137,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 - [WebAssembly in Houdini CSS, is it possible?](https://www.slideshare.net/gskachkov/webassembly-in-houdini-css-is-it-possible)
 - [Design System Magic with Houdini](https://css-houdini.web.app/talks/design-systems/)
 - [When Houdini met Goldblum](https://slides.com/oliverturner/when-houdini-met-goldblum)
+- [Calculating Color: Dynamic Theming With CSS Variables](https://una.im/calculating-color)
 
 ---
 
