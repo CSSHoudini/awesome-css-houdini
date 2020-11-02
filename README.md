@@ -53,6 +53,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [Randomized Selective Color: A Post List Study](https://una.im/random-selective-colors/) | `Paint API` `Custom Properties & Values API` |
 | [Performance - CSS Painting versus CSS Houdini Paint API](https://lisilinhart.info/posts/css-houdini-performance/) | `Paint API` |
 | [Magical Rainbow Gradients](https://joshwcomeau.com/react/rainbow-button/) | `Paint API` `Custom Properties` |
+| [@property: giving superpowers to CSS variables](https://web.dev/at-property/) | `Custom Properties` |
 
 ---
 
