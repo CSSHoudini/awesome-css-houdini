@@ -25,6 +25,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | Library | Description |
 | ---- | ---- |
 | [Extra.CSS](https://extra-css.netlify.com/) | A CSS Houdini library for making your site a little more #extra. |
+| [Inverted Corners](https://inverted-corners.netlify.app/) | A Houdini Paint worklet for inverted corners. |
 
 ---
 
@@ -85,6 +86,7 @@ The first question that we do when we view a new technology, thanks to [Surma](h
 | [CSS Houdini experiments](https://github.com/nucliweb/houdini) | `Paint API` |
 | [Jeffsum clone](https://jeffsum.oliverturner.cloud) | `Custom Properties & Values API` |
 | [CSS Paint Demos](https://vitaliy-bobrov.github.io/css-paint-demos/) | `Paint API` |
+| [Inverted Corners examples](https://codepen.io/collection/DLKPZb) | `Paint API` |
 
 ---
 
